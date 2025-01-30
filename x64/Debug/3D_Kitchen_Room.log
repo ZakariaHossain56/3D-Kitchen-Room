@@ -1,0 +1,42 @@
+﻿  glad.c
+  main.cpp
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\basic_camera.h(93,9): warning C4068: unknown pragma 'oncea'
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(925,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(363,124): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(363,101): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(363,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(363,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1012,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1012,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1146,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1146,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1146,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1227,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1227,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1227,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1282,77): warning C4101: 'scaleMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1310,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1310,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\main.cpp(1310,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(platform.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_module.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_joystick.obj)' or at ''; linking object as if no debug info
+  3D_Kitchen_Room.vcxproj -> D:\UserFolder\Desktop\4-2\Lab\Computer Graphics\Computer Graphics Lab\Lab 2\3D_Kitchen_Room\x64\Debug\3D_Kitchen_Room.exe
